@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="nunito-sans">Hello, World!</h1>
+    <pageHeader />
   </div>
 </template>
 
