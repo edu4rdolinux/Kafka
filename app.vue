@@ -30,5 +30,16 @@ body {
 }
 </style>
 
-<script lang="typescript">
+<script setup lang="ts">
+useHead
+({
+  title
+: 'Kafka',
+  meta
+: [
+    { name
+: 'description', content
+: 'Kafka Music' }
+  ],
+})
 </script>
