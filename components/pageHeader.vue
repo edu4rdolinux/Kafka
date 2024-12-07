@@ -1,5 +1,6 @@
 <template>
     <div class="Header">
+        <HeaderTitle/>
     </div>
     <HeaderHr/>
 </template>
