@@ -31,15 +31,13 @@ body {
 </style>
 
 <script setup lang="ts">
-useHead
-({
-  title
-: 'Kafka',
-  meta
-: [
-    { name
-: 'description', content
-: 'Kafka Music' }
+useHead({
+  title: 'Kafka',
+  meta: [
+    { name: 'description', content: 'Kafka Music' },
+  ],
+  link: [
+    { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
   ],
 })
 </script>
