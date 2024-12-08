@@ -3,11 +3,11 @@
 </template>
 
 <style lang="scss" scoped>
-@import '../styles/variables.scss';
+@use '@/styles/variables.scss' as vars;
 
 hr {
     width: 100%;
     border: 1px solid;
-    border-color: $primary-green;
+    border-color: vars.$primary-green;
 }
 </style>

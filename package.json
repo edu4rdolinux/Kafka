@@ -15,7 +15,9 @@
     "vue-router": "latest"
   },
   "devDependencies": {
+    "@nuxtjs/style-resources": "^1.2.2",
     "sass": "^1.82.0",
-    "sass-loader": "^16.0.4"
+    "sass-loader": "^16.0.4",
+    "vue-loader": "^17.4.2"
   }
 }
