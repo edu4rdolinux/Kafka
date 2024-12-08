@@ -1,8 +1,9 @@
 <template>
     <div class="Header">
-        <HeaderTitle/>
+        <logo />
+        <HeaderTitle />
     </div>
-    <HeaderHr/>
+    <HeaderHr />
 </template>
 
 <style scoped lang="scss">
@@ -12,5 +13,8 @@
     width: 100%;
     height: 5em;
     background-color: $primary-black;
+    display: flex;
+    align-items: center;
+    gap: 1vh;
 }
 </style>
