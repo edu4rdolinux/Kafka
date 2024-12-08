@@ -38,7 +38,7 @@ useHead({
     { name: 'description', content: 'Kafka Music' },
   ],
   link: [
-    { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    { rel: 'icon', type: 'image/x-icon', href: '/logo.png' }
   ],
 })
 </script>
