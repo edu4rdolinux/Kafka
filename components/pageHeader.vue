@@ -6,9 +6,11 @@
 </template>
 
 <style scoped lang="scss">
+@import '../styles/variables';
+
 .Header {
     width: 100%;
     height: 5em;
-    background-color: #020420;
+    background-color: $primary-black;
 }
 </style>
