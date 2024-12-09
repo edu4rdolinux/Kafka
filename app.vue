@@ -1,6 +1,7 @@
 <template>
   <div>
     <pageHeader />
+    <Word />
   </div>
 </template>
 
